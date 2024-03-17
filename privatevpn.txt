@@ -23,3 +23,5 @@ socks://M2NzcGZmemJ2YmhydXJ6NXdhbjN4eHdzOnJianRoeXJuQGhpMi5pbg==@it-mil.pvdata.h
 socks://M2NzcGZmemJ2YmhydXJ6NXdhbjN4eHdzOnJianRoeXJuQGhpMi5pbg==@lu-lux.pvdata.host:1080#%F0%9F%87%B1%F0%9F%87%BA+Luxembourg+%40vpn_luxury
 socks://M2NzcGZmemJ2YmhydXJ6NXdhbjN4eHdzOnJianRoeXJuQGhpMi5pbg==@md-chi.pvdata.host:1080#%F0%9F%87%B2%F0%9F%87%A9+Moldavia+%40vpn_luxury
 socks://M0NzcEZmWmJ2YmhSdXJaNXdhTjNYWFdTOnJianRoeXJuQGhpMi5pbg==@nl-ams.pvdata.host:1080#%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%40vpn_luxury
+socks://M2NzcGZmemJ2YmhydXJ6NXdhbjN4eHdzOnJianRoeXJuQGhpMi5pbg==@tr-ist.pvdata.host:1080#%F0%9F%87%B9%F0%9F%87%B7+Turkey+%40vpn_luxury
+socks://M2NzcGZmemJ2YmhydXJ6NXdhbjN4eHdzOnJianRoeXJuQGhpMi5pbg==@jp-tok.pvdata.host:1080#%F0%9F%87%AF%F0%9F%87%B5+Japan+%40vpn_luxury
